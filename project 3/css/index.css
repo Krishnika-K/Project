@@ -1,0 +1,8 @@
+#c1 ul li a{
+    list-style: none;
+    color: black;
+    border-right: 1px solid black;
+}
+#c2{
+    background-color: rgba(251, 251, 251, 0);
+}
